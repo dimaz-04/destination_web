@@ -1,0 +1,16 @@
+/* .bg-login-image
+{
+  background-image: url('images/login.jpg');
+        background-size: cover;
+}
+
+.bg-register-image 
+{
+  background-image: url('images/regs.jpg');
+  background-size: cover;
+}   */
+
+.background {
+  background-image: url('images/bg.jpg');
+  background-size: cover;
+}
